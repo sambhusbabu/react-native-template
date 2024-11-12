@@ -1,4 +1,4 @@
-package com.whats_direct
+package com.dominusdeveloper.whats_direct
 
 import android.app.Application
 import com.facebook.react.PackageList
